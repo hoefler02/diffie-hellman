@@ -1,5 +1,5 @@
 # Diffie Hellman Key Exchange in Python
-A means of securely exchanging cryptographic keys over a public channel. 
+A means of securely exchanging cryptographic keys over a public channel. Script for cracking the communication is also included.
 
 # Example
 ```python
